@@ -1,0 +1,20 @@
+{
+  "name": "wolfysmusic",
+  "version": "2.2.1",
+  "description": "wolfy's is my music bots",
+  "main": "app.js",
+  "author": "Lynhe",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "0.0.7",
+    "stack": "^0.1.0",
+    "ytdl-core": "^4.5.0"
+  }
+}
